@@ -1,5 +1,6 @@
 package com.example.demo.library.service;
 
+import com.example.demo.library.entity.Book;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
